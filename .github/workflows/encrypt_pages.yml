@@ -32,12 +32,9 @@ jobs:
               ./node_modules/.bin/staticrypt $i ${{ secrets.STATICRYPT_PASSWORD }} -s ${{ secrets.STATICRYPT_SALT }} -o $i;
             fi
           done;
-
-      - name: Amend commit
-        uses: stefanzweifel/git-auto-commit-action@v4
+      
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v8
         with:
-          commit_message: 'Build files'
-          commit_options: '--amend --no-edit'
-          push_options: '--force'
-          file_pattern: '*.html'
-          skip_fetch: true
+          message: 'Build files'
+          add: '*.html'
