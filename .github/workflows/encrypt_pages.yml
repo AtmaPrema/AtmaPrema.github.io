@@ -1,0 +1,43 @@
+
+
+on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - '**.html'
+
+jobs:
+  encrypt-pages:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v2
+        with:
+          ref: 'main'
+      
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+      
+      - name: Install modules
+        run: |
+          npm install
+      
+      - name: Encrypt files
+        run: |
+          for i in *.html; do
+            if ! grep -q 'staticrypt-html' $i; then
+              ./node_modules/.bin/staticrypt $i ${{ secrets.STATICRYPT_PASSWORD }} -s ${{ secrets.STATICRYPT_SALT }} -o $i;
+            fi
+          done;
+
+      - name: Amend commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Build files'
+          commit_options: '--amend --no-edit'
+          push_options: '--force'
+          file_pattern: '*.html'
+          skip_fetch: true
