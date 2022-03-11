@@ -260,7 +260,7 @@ To add painpoints for a program, when editing or creating a new blog post
 ​		![image-20220220164857721](assets/image-20220220164857721-16463634748391.png) 
 
 2.   Type in the painpoint you wish to group this program under, with `painpoint|<name-of-painpoint>`, separated by `-`
-     ![image-20220220165712433](_docs.assets/image-20220220165712433.png)
+     ![image-20220220165712433](assets/image-20220220165712433.png) 
 
 3.   Click "Add`painpoint|<name-of-painpoint>`"
 
