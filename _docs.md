@@ -164,17 +164,25 @@ In this case, this `Sacred Intimacy` article can display the necessary metafield
 
 ### Workflows for programs
 
+
+
 Currently, content displayed about AtmaPrema programs are handled according the specific program type ***(either personal development or corporate sessions)*** .
-
-
 
 Following the steps for either type will allow you to set up a page with the existing template layout very quickly.
 
-The default templates are 
+
+
+The default templates are
+
+[template:personal-programs](#template:personal-programs:): which handles the default template of a personal program
+
+[template:personal-programs-shop](#template:personal-programs-shop:): which handles the default template of a personal program with an associated product
+
+[template:corporate-programs](#template:corporate-programs:): which handles the default template of a corporate program
 
 
 
-However, certain programs pages, such as 
+However, certain programs pages, such as...
 
 **Self-love Solutions** 
 
@@ -186,9 +194,15 @@ However, certain programs pages, such as
 
 
 
-Have their own special templates due to special handling specified during development
+Have their own special templates due to special handling required during development
+
+You can view these templates in the [Template Reference](#template-reference)
 
 
+
+If you need to create a new template to handle some new behavior or layout that the default templates cannot currently handle, 
+
+you can always create a new template for this.
 
 
 
