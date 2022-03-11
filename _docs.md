@@ -846,8 +846,6 @@ Click **Remove Block ** on the **Collection list** section to remove a featured 
 
 
 
-
-
 ###	template:personal-programs:
 
 ​	default template for personal programs
