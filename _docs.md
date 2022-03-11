@@ -64,7 +64,7 @@ To begin, navigate to the `Blog posts` section under the Online Store
 
 
 
-![image-20220220163700036](index.assets/image-20220220163700036.png) 
+![image-20220220163700036](assets/image-20220220163700036.png) 
 
 
 
@@ -83,7 +83,7 @@ This `Template` determines the layout and the style of the page and several `Art
 
 Upon opening this tab, you should see **this page**:
 
-![blog_posts-all](index.assets/blog_posts-all.jpg)
+![blog_posts-all](assets/blog_posts-all.jpg)
 
 
 
@@ -91,13 +91,13 @@ We've taken the liberty of creating **filters for each article category** for yo
 
 
 
-![blog_posts-highlighted](index.assets/blog_posts-highlighted.jpg)
+![blog_posts-highlighted](assets/blog_posts-highlighted.jpg)
 
 
 
 **You can save your own filters** after applying inputs for your own navigation. They will be saved on the top row just like the current defaults
 
-![blog_posts-save-filter](index.assets/blog_posts-save-filter.jpg)
+![blog_posts-save-filter](assets/blog_posts-save-filter.jpg)
 
 
 
@@ -118,11 +118,11 @@ On clicking on the `Article/Blog post`, you will be brought to a page where you 
 
 
 
-<img src="index.assets/image-20220304113833905.png" alt="image-20220304113833905"  style="float:left;"/>
+<img src="assets/image-20220304113833905.png" alt="image-20220304113833905"  style="float:left;"/>
 
 
 
-<img src="index.assets/article-sacred-intimacy.png" alt="article-sacred-intimacy" style="zoom:25%; float:left;" />
+<img src="assets/article-sacred-intimacy.png" alt="article-sacred-intimacy" style="zoom:25%; float:left;" />
 
 **As an addition, ** by clicking on `More actions` you can edit the metafields of the article by clicking `Edit Metafields`.
 
@@ -134,13 +134,13 @@ They allow you to add custom fields not handled by default such as title and con
 
 
 
-![image-20220304114632476](index.assets/image-20220304114632476.png) 
+![image-20220304114632476](assets/image-20220304114632476.png) 
 
 
 
 As an example, on the `Sacred Intimacy` article, we select the `Metafield` type as `Product Reference`...
 
-![image-20220304115317623](index.assets/image-20220304115317623.png) 
+![image-20220304115317623](assets/image-20220304115317623.png) 
 
 
 
@@ -182,11 +182,11 @@ These programs will be display in a `LIST` view, to the user:
 
 
 
-<img src="index.assets/pages-corporate_wellbeing_workshops.png" alt="pages-corporate_wellbeing_workshops" style="zoom: 25%;" /> 
+<img src="assets/pages-corporate_wellbeing_workshops.png" alt="pages-corporate_wellbeing_workshops" style="zoom: 25%;" /> 
 
 
 
-![](index.assets/image-20220220170018219.png) 
+![](assets/image-20220220170018219.png) 
 
 Add a category to the dropdown display by doing the following...
 
@@ -194,23 +194,23 @@ Add a category to the dropdown display by doing the following...
 
 2.   type in the tag you wish to group this program under, prefixed with `tag|new-category-for-programs`
 
-     ​	![image-20220220170425452](index.assets/image-20220220170425452.png) 
+     ​	![image-20220220170425452](assets/image-20220220170425452.png) 
 
 3.   click "Add`tag|<new-category-for-programs>`"
 
 4.   head to `Online Store` > `Navigation` and click on `header_menu`
 
-     ![image-20220304120524503](index.assets/image-20220304120524503.png) 
+     ![image-20220304120524503](assets/image-20220304120524503.png) 
 
      
 
-![navigation-header_menu](index.assets/navigation-header_menu.png) 
+![navigation-header_menu](assets/navigation-header_menu.png) 
 
 
 
 5.   Click `Add menu item to <Personal Development/Corporate Wellbeing>`
 
-     ![image-20220304121032250](index.assets/image-20220304121032250.png)  
+     ![image-20220304121032250](assets/image-20220304121032250.png)  
 
 
 
@@ -230,7 +230,7 @@ Instead of displaying multiple programs in a list, it is possible to link direct
 
 
 
-<img src="index.assets/article-sacred-intimacy.png" alt="article-sacred-intimacy" style="zoom:25%;" /> 
+<img src="assets/article-sacred-intimacy.png" alt="article-sacred-intimacy" style="zoom:25%;" /> 
 
 To do this:
 
@@ -257,10 +257,10 @@ To add painpoints for a program, when editing or creating a new blog post
 
 1.   Click on the `TAGS` input on the lower-right side of the article composition screen
 
-​		![image-20220220164857721](index.assets/image-20220220164857721-16463634748391.png) 
+​		![image-20220220164857721](assets/image-20220220164857721-16463634748391.png) 
 
 2.   Type in the painpoint you wish to group this program under, with `painpoint|<name-of-painpoint>`, separated by `-`
-     ![image-20220220165712433](/home/hal/.config/Typora/typora-user-images/image-20220220165712433.png)
+     ![image-20220220165712433](assets/image-20220220165712433.png) 
 
 3.   Click "Add`painpoint|<name-of-painpoint>`"
 
@@ -272,7 +272,7 @@ To add painpoints for a program, when editing or creating a new blog post
 
 Changing the program template is done by selecting the desired template on the `Theme template` dropdown
 
-![image-20220220171831024](/home/hal/.config/Typora/typora-user-images/image-20220220171831024.png) 
+![image-20220220171831024](assets/image-20220220171831024-16469730839371.png) 
 
 
 
@@ -282,7 +282,7 @@ To **enable the capability to receive requests for program brochures** on the pa
 
 
 
-![image-20220309102134803](index.assets/image-20220309102134803.png) 
+![image-20220309102134803](assets/image-20220309102134803.png) 
 
 
 
@@ -292,7 +292,7 @@ To **add a page button directing the user to join the telegram community**, add 
 
 
 
-![image-20220309101821498](index.assets/image-20220309101821498.png)
+![image-20220309101821498](assets/image-20220309101821498.png)
 
 
 
@@ -302,17 +302,23 @@ To **add a page button directing the user to join the telegram community**, add 
 
 2.   Click on `Edit Metafields` under `More Actions`
 
-     ![image-20220304144907045](index.assets/image-20220304144907045.png)
+     ![image-20220304144907045](assets/image-20220304144907045.png)
 
 3.   Add testimonials by inserting a metafield of type `Multi-line text` with the `Namespace` "testimonials"
 
      The key value can be any arbitrary value as long as it is unique across the namespace
 
-     ![image-20220309110752534](index.assets/image-20220309110752534.png)
+     ![image-20220309110752534](assets/image-20220309110752534.png)
 
 4.   You can edit the content of the testimonial in each entry's **text area** as show below.
 
-![image-20220309110459385](index.assets/image-20220309110459385.png) 
+![image-20220309110459385](assets/image-20220309110459385.png) 
+
+
+
+
+
+
 
 ### Writing about Corporate Programs
 
@@ -324,25 +330,23 @@ However within corporate programs, the **following entries all have special hand
 
 
 
-
-
 **To write content about corporate programs...** 
 
 1.  Simply click `Add a Blog Post` and write your content or edit an existing one
 
 2.  Select **Program** as the **Blog**
 
-    ![image-20220309102751148](index.assets/image-20220309102751148.png) 
+    ![image-20220309102751148](assets/image-20220309102751148.png) 
 
 2.  Type in `session|corporate` in the `TAGS`input 
 
 3.  Click on `session|corporate`
 
-    ![image-20220220170933351](index.assets/image-20220220170933351.png) 
+    ![image-20220220170933351](assets/image-20220220170933351.png) 
 
 4.   Select the theme template to be `corporate-programs` for it have the form handling of a corporate program
 
-     ![image-20220220171735947](/home/hal/.config/Typora/typora-user-images/image-20220220171735947.png) 
+     ![image-20220220171735947](assets/image-20220220171735947.png) 
      
 5.   Refer to **Sections I-V in *General Workflows for program for additional settings***
 
@@ -382,17 +386,17 @@ These types of programs use the template [personal-programs-shop](#template:pers
 
 2.  Select **Program** as the **Blog**
 
-    ![image-20220309102751148](index.assets/image-20220309102751148.png) 
+    ![image-20220309102751148](assets/image-20220309102751148.png) 
 
 2.  Type in `session|personal` in the `TAGS`input 
 
 3.  Click on `session|personal`
 
-    ![image-20220220170817418](index.assets/image-20220220170817418.png) 
+    ![image-20220220170817418](assets/image-20220220170817418.png) 
 
 4.   Select the theme template to be `personal-programs` for it have the form handling of a personal program 
 
-![image-20220220171831024](index.assets/image-20220220171831024.png) 
+![image-20220220171831024](assets/image-20220220171831024.png) 
 
 5.   Refer to **Sections I-V in *General Workflows for program* for additional settings**
 5.   Set the `Visibility` to `Visible` and click `Save`
@@ -413,21 +417,21 @@ This program should now appear under **"Personal Programs"**
 
 2.  Select **Program** as the **Blog**
 
-    ![image-20220309102751148](index.assets/image-20220309102751148.png) 
+    ![image-20220309102751148](assets/image-20220309102751148.png) 
 
 2.  Type in `session|personal` in the `TAGS`input (as above)
 
 3.  Click on `session|personal`
 
-    ![image-20220220170817418](index.assets/image-20220220170817418.png) 
+    ![image-20220220170817418](assets/image-20220220170817418.png) 
 
 4.   Select the theme template to be `personal-programs-shop` for it have the form handling of a personal program 
 
-![image-20220220171831024](index.assets/image-20220220171831024.png) 
+![image-20220220171831024](assets/image-20220220171831024.png) 
 
 5.   To add the associated product, click on `More Actions > Edit Metafields`...
 
-     ![image-20220304144935808](index.assets/image-20220304144935808.png) 
+     ![image-20220304144935808](assets/image-20220304144935808.png) 
 
      -   Add the metafield `associated_product` defined in the [template reference](#template:personal-programs-shop:) 
 
@@ -458,13 +462,13 @@ To add content to display under `Our Team` simply select the blog corresponding 
 1.  Simply click `Add a Blog Post` and write your content or edit an existing one
 
 2.  Select the `Blog` to be `Our Team`
-    ![image-20220307153846449](index.assets/image-20220307153846449.png)
+    ![image-20220307153846449](assets/image-20220307153846449.png)
 
     
 
 3.  Select the `Theme template` to be `people`
 
-    ![image-20220307153756871](index.assets/image-20220307153756871.png) 
+    ![image-20220307153756871](assets/image-20220307153756871.png) 
 
 4.  Set the `Visibility` to `Visible` and click `Save`
 
@@ -482,10 +486,10 @@ To add content to display under `Self-Love Teachers` simply select the blog corr
 
 1.  Simply click `Add a Blog Post` and write your content or edit an existing one
 2.  Select the `Blog` to be `Self-Love Teachers`
-    ![image-20220307154045481](index.assets/image-20220307154045481.png) 
+    ![image-20220307154045481](assets/image-20220307154045481.png) 
 3.  Select the `Theme template` to be `people`
 
-![image-20220307153756871](index.assets/image-20220307153756871.png) 
+![image-20220307153756871](assets/image-20220307153756871.png) 
 
 4.   Set the `Visibility` to `Visible` and click `Save`
 
@@ -501,22 +505,22 @@ Articles under `Features` are handled a bit differently from other written conte
 
 in that **they require a link to external content in content in place of regular article content:** 
 
-![image-20220307154404324](index.assets/image-20220307154404324.png) 
+![image-20220307154404324](assets/image-20220307154404324.png) 
 
 1.  Simply click `Add a Blog Post` and write your content or edit an existing one
 
 2.  Set the `Title` of the article to mirror the article of the external resource
 
-    ![image-20220308120233663](index.assets/image-20220308120233663.png)
+    ![image-20220308120233663](assets/image-20220308120233663.png)
 
 3.  Set the `Content` of the article to be the link to the corresponding external resource. 
 
     **DO NOT** add any other information to this input
 
-    ![image-20220308120350805](index.assets/image-20220308120350805.png) 
+    ![image-20220308120350805](assets/image-20220308120350805.png) 
 
 4.  Select the `Blog` to be `Atma Prema Features`
-    ![image-20220307154551551](index.assets/image-20220307154551551.png)
+    ![image-20220307154551551](assets/image-20220307154551551.png)
 
 5.  Add an arbitrary excerpt for the feature. 
 
@@ -524,11 +528,11 @@ in that **they require a link to external content in content in place of regular
 
     In this example, we placed the media site title in **bold titles** and the excerpt
 
-    ![image-20220308120517657](index.assets/image-20220308120517657.png) 
+    ![image-20220308120517657](assets/image-20220308120517657.png) 
 
 6.  Add an image to the featured article
 
-    ![image-20220308120759132](index.assets/image-20220308120759132.png) 
+    ![image-20220308120759132](assets/image-20220308120759132.png) 
     
 7.  Set the `Visibility` to `Visible` and click `Save`
 
@@ -560,12 +564,12 @@ To edit the content sections of your site, simply naviagte to the **Themes** tab
 
 1.   Click the **customize** button on the currently live site 
 
-![image-20220220173205238](index.assets/image-20220220173205238.png) 
+![image-20220220173205238](assets/image-20220220173205238.png) 
 
 2.   Navigate to the page whose sections you wish to edit
 
 3.   You should see the `Theme Editor` open up which will allow you to edit/add sections for each page
-     ![image-20220307163234906](index.assets/image-20220307163234906.png)
+     ![image-20220307163234906](assets/image-20220307163234906.png)
 
      
 
@@ -594,13 +598,13 @@ Please refer to this workflow for any modification or addition done on any simil
 
 
 
-![image-20220309103237144](index.assets/image-20220309103237144.png) 
+![image-20220309103237144](assets/image-20220309103237144.png) 
 
 1.   Navigate to the **Self Love Solutions** page **while in the Theme Editor**
 
 2.   Look for a section called **Featured Articles** on the bottom right
 
-     ![image-20220309103624483](index.assets/image-20220309103624483.png) 
+     ![image-20220309103624483](assets/image-20220309103624483.png) 
 
 3.   Click `Add Article` to add a new entry to the list as a **Block**
 
@@ -608,7 +612,7 @@ Please refer to this workflow for any modification or addition done on any simil
 
 4.   To reorder, entries, simply drag the block using by holding and dragging its right-hand side
 
-     ![image-20220309103829811](index.assets/image-20220309103829811.png) 
+     ![image-20220309103829811](assets/image-20220309103829811.png) 
 
 5.   Click `Save`
 
@@ -618,7 +622,7 @@ Please refer to this workflow for any modification or addition done on any simil
 
 
 
-![image-20220309104401191](index.assets/image-20220309104401191.png)
+![image-20220309104401191](assets/image-20220309104401191.png)
 
 
 
@@ -629,7 +633,7 @@ Please refer to this workflow for any modification or addition done on any simil
 
 ### Displaying Our Team *(About Us Page)*
 
-![image-20220309104509485](index.assets/image-20220309104509485.png)
+![image-20220309104509485](assets/image-20220309104509485.png)
 
 1.   Navigate to the **About Us** page **while in the Theme Editor**
 2.   Follow steps **2-4** as indicated above in [Displaying Self Love Solutions teachers *(Self Love Solutions Program Page)*](#displaying-self-love-solutions-teachers-self-love-solutions-program-page)
@@ -644,21 +648,21 @@ which will allow you to create a carousel of different written content that you'
 
 
 
-![image-20220220173050314](index.assets/image-20220220173050314.png) 
+![image-20220220173050314](assets/image-20220220173050314.png) 
 
 
 
-​	![image-20220307161447953](index.assets/image-20220307161447953.png)
+​	![image-20220307161447953](assets/image-20220307161447953.png)
 
 
 
 1.  If you're not already editing a page with `Section: Featured articles`, simply add it 
 
-    ![image-20220307164716293](index.assets/image-20220307164716293.png) 
+    ![image-20220307164716293](assets/image-20220307164716293.png) 
 
 2.  You can click `Add Article` to reference an article you've written
 
-    ![image-20220307163543166](index.assets/image-20220307163543166.png) 
+    ![image-20220307163543166](assets/image-20220307163543166.png) 
 
 3.  Click `Select Article` to open a dropdown where you can search and choose an article to feature on the carousel
 
@@ -666,13 +670,13 @@ which will allow you to create a carousel of different written content that you'
 
     
 
-    ​	![image-20220307163720617](index.assets/image-20220307163720617.png) 
+    ​	![image-20220307163720617](assets/image-20220307163720617.png) 
 
-    ![image-20220307163852404](index.assets/image-20220307163852404.png) 
+    ![image-20220307163852404](assets/image-20220307163852404.png) 
 
 4.  Adjust the section settings according to your needs
 
-    ![image-20220307164951222](index.assets/image-20220307164951222.png) 
+    ![image-20220307164951222](assets/image-20220307164951222.png) 
 
 5.  Click `Save`
 
@@ -688,15 +692,15 @@ which will allow you to create a carousel of different written content that you'
 
 3.   Add the question/answer in the sidebar
 
-     ![image-20220308123950505](index.assets/image-20220308123950505.png) 
+     ![image-20220308123950505](assets/image-20220308123950505.png) 
 
 4.   Edit the `FAQ Heading` and `FAQ Subtitle` of the featured excerpts
 
-     ![image-20220308124037048](index.assets/image-20220308124037048.png) 
+     ![image-20220308124037048](assets/image-20220308124037048.png) 
 
 5.   Click `Save` and the changes should now reflect
 
-     ![image-20220308135440472](index.assets/image-20220308135440472.png) 
+     ![image-20220308135440472](assets/image-20220308135440472.png) 
 
      
 
@@ -708,11 +712,11 @@ which will allow you to create a carousel of different written content that you'
 
 3.   Add some slide text representing excerpts/testimonials
 
-     ![image-20220308122152219](index.assets/image-20220308122152219.png) 
+     ![image-20220308122152219](assets/image-20220308122152219.png) 
 
 4.   Edit the title and subtitle of the featured excerpts
 
-     ![image-20220308122258741](index.assets/image-20220308122258741.png) 
+     ![image-20220308122258741](assets/image-20220308122258741.png) 
      
 5.   Click `Save` and the changes should now reflect
 
@@ -728,19 +732,19 @@ Icons are handled through referencing svg's in the file `snippets/icon-partners.
 
 1.   Click `Edit code`
 
-     ![image-20220308122703973](index.assets/image-20220308122703973.png) 
+     ![image-20220308122703973](assets/image-20220308122703973.png) 
 
 2.   Navigate to `icon-partners.liquid` under `snippets`
 
-     ![image-20220308122926344](index.assets/image-20220308122926344.png) 
+     ![image-20220308122926344](assets/image-20220308122926344.png) 
 
      and you should see this file with a `case...when` tag
 
-     ![image-20220308123036950](index.assets/image-20220308123036950.png)
+     ![image-20220308123036950](assets/image-20220308123036950.png)
 
 3.   Right below `{% case icon %}`, type the name of your icon enclosed in `{% when '<name-of-your-icon>' %}`
 
-     ![image-20220308123322585](index.assets/image-20220308123322585.png) 
+     ![image-20220308123322585](assets/image-20220308123322585.png) 
 
 4.   Copy and paste the `<svg>` markup under the `{% when %}` tag
 
@@ -748,13 +752,13 @@ Icons are handled through referencing svg's in the file `snippets/icon-partners.
 
      To understand the difference, refer to [Adding vector graphics to the Web](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web)
 
-     ![image-20220308123509369](index.assets/image-20220308123509369.png) 
+     ![image-20220308123509369](assets/image-20220308123509369.png) 
 
 5.   Click `Save` and the changes should now reflect
 
 6.   Go back to the **Theme Editor** and add a comma-separated entry to the `Featured-logos` setting of `Section: Featured excerpts`
 
-     ![image-20220308123638355](index.assets/image-20220308123638355.png)
+     ![image-20220308123638355](assets/image-20220308123638355.png)
 
 
 
@@ -780,7 +784,7 @@ Click **Add Collection ** on the **Collection list** section to reference a coll
 
 
 
-![image-20220308180117063](index.assets/image-20220308180117063.png) 
+![image-20220308180117063](assets/image-20220308180117063.png) 
 
 Click on the **Block** of the featured collection you wish to remove  
 
@@ -788,7 +792,7 @@ Click **Remove Block ** on the **Collection list** section to remove a featured 
 
 
 
-![image-20220308180253728](index.assets/image-20220308180253728.png) 
+![image-20220308180253728](assets/image-20220308180253728.png) 
 
 
 
@@ -858,7 +862,7 @@ Click **Remove Block ** on the **Collection list** section to remove a featured 
 
 
 
-<img src="index.assets/template-personal_programs.png" alt="template-personal_programs" style="zoom:25%;" /> 
+<img src="assets/template-personal_programs.png" alt="template-personal_programs" style="zoom:25%;" /> 
 
 
 
@@ -880,7 +884,7 @@ This template a displays a ***Call to Action*** for an associated product instea
 
 ​	the associated product of this particular program
 
- <img src="index.assets/template-personal_programs_shop.png" alt="template-personal_programs_shop" style="zoom:25%;" />  
+ <img src="assets/template-personal_programs_shop.png" alt="template-personal_programs_shop" style="zoom:25%;" />  
 
 
 
@@ -894,7 +898,7 @@ This template a displays a ***Call to Action*** for an associated product instea
 
 
 
-<img src="index.assets/template-raising_frequencies-16463754526361.png" alt="template-raising_frequencies" style="zoom:25%;" />  	
+<img src="assets/template-raising_frequencies-16463754526361.png" alt="template-raising_frequencies" style="zoom:25%;" />  	
 
 
 
@@ -914,7 +918,7 @@ This template features the self-love-solutions video and the specific teachers f
 
 
 
-<img src="index.assets/template-sls.png" alt="template-sls" style="zoom:25%;"/> 
+<img src="assets/template-sls.png" alt="template-sls" style="zoom:25%;"/> 
 
 
 
@@ -936,7 +940,7 @@ This template features the specific teacher for the program
 
 
 
-<img src="index.assets/template-sls_kids.png" alt="template-sls_kids" style="zoom:25%;" /> 
+<img src="assets/template-sls_kids.png" alt="template-sls_kids" style="zoom:25%;" /> 
 
 
 
@@ -960,7 +964,7 @@ This template features the specific teacher for the program
 
 
 
-<img src="index.assets/template-corporate_programs.png" alt="template-corporate_programs" style="zoom:25%;" /> 
+<img src="assets/template-corporate_programs.png" alt="template-corporate_programs" style="zoom:25%;" /> 
 
 
 
@@ -974,7 +978,7 @@ This template features the specific teacher for the program
 
 
 
-<img src="index.assets/template-corporate_private_sessions.png" alt="template-corporate_private_sessions" style="zoom:25%;" /> 
+<img src="assets/template-corporate_private_sessions.png" alt="template-corporate_private_sessions" style="zoom:25%;" /> 
 
 
 
@@ -1012,7 +1016,7 @@ This template features the specific teacher for the program
 
 A section for featuring various written content managed through Shopify's **Blogs** through adding **Blog posts** as **Blocks**.
 
-![image-20220308112236715](index.assets/image-20220308112236715.png)
+![image-20220308112236715](assets/image-20220308112236715.png)
 
 
 
@@ -1024,7 +1028,7 @@ Content for this section is managed directly through `Blocks` and not through Sh
 
 
 
-![image-20220308112129444](index.assets/image-20220308112129444.png)
+![image-20220308112129444](assets/image-20220308112129444.png)
 
 #### section: Rich text
 
@@ -1037,7 +1041,7 @@ A simple section for arbitary text and an interactive element
 
 
 
-![image-20220308112319119](index.assets/image-20220308112319119.png)
+![image-20220308112319119](assets/image-20220308112319119.png)
 
 #### section: Image with text
 
@@ -1047,7 +1051,7 @@ This section allows you to change the order and positioning of image and text
 
 
 
-![image-20220308112341815](index.assets/image-20220308112341815.png)
+![image-20220308112341815](assets/image-20220308112341815.png)
 
 
 
@@ -1059,7 +1063,7 @@ This section accepts both still and moving background images
 
 
 
-![image-20220308112443550](index.assets/image-20220308112443550.png)
+![image-20220308112443550](assets/image-20220308112443550.png)
 
 
 
@@ -1079,7 +1083,7 @@ This section accepts both still and moving background images
 
 
 
-![image-20220308112644536](index.assets/image-20220308112644536.png)
+![image-20220308112644536](assets/image-20220308112644536.png)
 
 
 
@@ -1113,7 +1117,7 @@ The featured **collections** are featured as blocks.
 
 
 
-![image-20220308155814748](index.assets/image-20220308155814748.png) 
+![image-20220308155814748](assets/image-20220308155814748.png) 
 
 
 
@@ -1133,7 +1137,7 @@ of the section.
 
 The featured **products** depend on the **collection** the page is currently on.
 
-![image-20220308160329410](index.assets/image-20220308160329410.png) 
+![image-20220308160329410](assets/image-20220308160329410.png) 
 
 
 
@@ -1151,7 +1155,7 @@ You can add/edit a **caption, title, and description for this section.**
 
 You can also edit the two pictures displayed below.
 
-![image-20220308152716627](index.assets/image-20220308152716627.png) 
+![image-20220308152716627](assets/image-20220308152716627.png) 
 
 
 
@@ -1169,7 +1173,7 @@ You can set the order of programs displayed for this section using the `Order of
 
 
 
-![image-20220308155210422](index.assets/image-20220308155210422.png) 
+![image-20220308155210422](assets/image-20220308155210422.png) 
 
 
 
@@ -1197,7 +1201,7 @@ For **call-to-action's**, you can specify the button label and button link using
 
 
 
-![image-20220308153441056](index.assets/image-20220308153441056.png) 
+![image-20220308153441056](assets/image-20220308153441056.png) 
 
 
 
@@ -1205,7 +1209,7 @@ For **call-to-action's**, you can specify the button label and button link using
 
 This section is to display a single cta across all of your site's pages on the footer
 
-![image-20220308154136114](index.assets/image-20220308154136114.png) 
+![image-20220308154136114](assets/image-20220308154136114.png) 
 
 
 
@@ -1213,5 +1217,5 @@ This section is to display a single cta across all of your site's pages on the f
 
 A section of dropdowns headed with a question and reveals the answer corresponding to the question
 
-![image-20220308114504753](index.assets/image-20220308114504753.png) 
+![image-20220308114504753](assets/image-20220308114504753.png) 
 
