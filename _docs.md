@@ -162,9 +162,35 @@ In this case, this `Sacred Intimacy` article can display the necessary metafield
 
 
 
-### General Workflows for programs
+### Workflows for programs
 
 Currently, content displayed about AtmaPrema programs are handled according the specific program type ***(either personal development or corporate sessions)*** .
+
+
+
+Following the steps for either type will allow you to set up a page with the existing template layout very quickly.
+
+The default templates are 
+
+
+
+However, certain programs pages, such as 
+
+**Self-love Solutions** 
+
+**Self-love Solutions for Kids** 
+
+**Raising Frequencies**
+
+**Corporate Programs Private Sessions**  
+
+
+
+Have their own special templates due to special handling specified during development
+
+
+
+
 
 
 
@@ -817,28 +843,6 @@ Click **Remove Block ** on the **Collection list** section to remove a featured 
 >   
 >
 >   ~ From Shopify Documentation on [Templates](https://shopify.dev/themes/architecture/templates)
-
-
-
-
-
-**How to read this reference**:
-
-
-
->   ###	template:<template name>:
->
->   ​	<template description>
->
->   **Metafields:**
->
->   `	<template metafield> (<[accepts multiple|]>)`
->
->   ​	`type: <metafield type>, namespace: <metafield namespace>, key: <metafield key>`
->
->   ​	 <metafield description>
-
-
 
 
 
