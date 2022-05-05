@@ -634,7 +634,7 @@ By default, it has the **Home Page** selected
 
 The sidebar on the right shows the **section** for each page along with their contents, with some sections consisting of **blocks**
 
-![image-20220505112510739](assets/image-20220505112510739.png) 
+<img src="assets/image-20220505112510739.png" alt="image-20220505112510739" style="zoom:67%;" /> 
 
  
 
@@ -644,7 +644,7 @@ Clicking on a section from the right sidebar allows us to edit/remove it...
 
 ... through a sidebar appearing on the left:
 
-![image-20220505113402866](assets/image-20220505113402866.png) 
+![image-20220505114727947](assets/image-20220505114727947.png) 
 
 
 
@@ -753,29 +753,29 @@ which will allow you to create a carousel of different written content that you'
 
 
 
-1.  If you're not already editing a page with `Section: Featured articles`, simply add it 
+1. If you're not already editing a page with `Section: Featured articles`, simply add it 
 
-    ![image-20220307164716293](assets/image-20220307164716293.png) 
+   <img src="assets/image-20220307164716293.png" alt="image-20220307164716293"  />   
 
-2.  You can click `Add Article` to reference an article you've written
+2. You can click `Add Article` to reference an article you've written
 
-    ![image-20220307163543166](assets/image-20220307163543166.png) 
+   ![image-20220307163543166](assets/image-20220307163543166.png) 
 
-3.  Click `Select Article` to open a dropdown where you can search and choose an article to feature on the carousel
+3. Click `Select Article` to open a dropdown where you can search and choose an article to feature on the carousel
 
-    Click `Article content links to ext` if the article's content links to an external resource 
+   Click `Article content links to ext` if the article's content links to an external resource 
 
-    
+   
 
-    ​	![image-20220307163720617](assets/image-20220307163720617.png) 
+   ​	![image-20220307163720617](assets/image-20220307163720617.png) 
 
-    ![image-20220307163852404](assets/image-20220307163852404.png) 
+   ![image-20220307163852404](assets/image-20220307163852404.png) 
 
-4.  Adjust the section settings according to your needs
+4. Adjust the section settings according to your needs
 
-    ![image-20220307164951222](assets/image-20220307164951222.png) 
+   ![image-20220307164951222](assets/image-20220307164951222.png) 
 
-5.  Click `Save`
+5. Click `Save`
 
 
 
