@@ -592,13 +592,20 @@ As mentioned in the previous sections, content can be managed displayed anywhere
 
 
 
-While the site is built by modifying markup and styles through HTML, CSS and JS, some basic customization is possible through the use of the **Theme Editor**
-
-Before proceeding, we recommend going through a quick overview of Shopify's documentation on how to [edit themes](https://help.shopify.com/en/manual/online-store/themes/customizing-themes/edit)
-
+While the site is built by modifying markup and styles through HTML, CSS and JS, 
+some basic customization is possible through the use of the **Theme Editor**
 
 
-To edit the content sections of your site, simply naviagte to the **Themes** tab of your Online Store:
+
+**Before proceeding, we recommend going through a quick overview of Shopify's documentation on how to [edit themes](https://help.shopify.com/en/manual/online-store/themes/customizing-themes/edit)**
+
+
+
+
+
+### Editing the site 
+
+To edit the content sections of your site, simply navigate to the **Themes** tab of your Online Store:
 
 
 
@@ -615,6 +622,56 @@ To edit the content sections of your site, simply naviagte to the **Themes** tab
 
 
 
+The upper section shown here allows you to navigate between pages of the site in order to select one for customization (**PAGE**)
+
+By default, it has the **Home Page** selected
+
+![image-20220505112350985](assets/image-20220505112350985.png)
+
+
+
+
+
+The sidebar on the right shows the **section** for each page along with their contents, with some sections consisting of **blocks**
+
+![image-20220505112510739](assets/image-20220505112510739.png) 
+
+ 
+
+Clicking on a section from the right sidebar allows us to edit/remove it...
+
+![image-20220505112716200](assets/image-20220505112716200.png) 
+
+... through a sidebar appearing on the left:
+
+![image-20220505113402866](assets/image-20220505113402866.png) 
+
+
+
+Certain sections also have blocks which you can add/remove/edit
+
+![image-20220505113438273](assets/image-20220505113438273.png) ![image-20220505113459688](assets/image-20220505113459688.png)
+
+
+
+
+
+### Editing the site's settings
+
+
+
+By clicking on ***Theme Settings*** on the right-hand sidebar of the Theme Editor, you can edit more general non-page specific settings of the site
+
+
+
+![image-20220505113834756](assets/image-20220505113834756.png) 
+
+![image-20220505113926001](assets/image-20220505113926001.png) 
+
+
+
+
+
 For the following workflows, make sure you are already on the **Theme Editor** of the page you wish to customize
 
 
@@ -625,8 +682,8 @@ With the release of the site at the time of writing, these include...
 -   displaying **Self love solutions kids** teachers on the **Self love solutions kids** page
 -   display **Our Team** members on the **About Us** page
 -   display **Events** on the **Home** page
--   testimonials on the home page
--   frequently asked questions
+-   display **Testimonials** on the home page
+-   display **frequently** asked questions
 
 
 
